@@ -1,6 +1,6 @@
 # Startup Name Generator ![Github Stars](https://img.shields.io/github/stars/ffpsj/startup-name-generator.svg?label=Stars) ![Github Forks](https://img.shields.io/github/forks/ffpsj/startup-name-generator.svg?label=Forks) ![Github Watchers](https://img.shields.io/github/watchers/ffpsj/startup-name-generator.svg?label=Watchers) ![Github Followers](https://img.shields.io/github/followers/ffpsj.svg?label=Followers) ![Github Contributors](https://img.shields.io/github/contributors/ffpsj/startup-name-generator.svg?label=Contributors) ![Github Repository Size](https://img.shields.io/github/repo-size/ffpsj/startup-name-generator.svg?label=Size)
 
-![Header](https://i.imgur.com/bytij1A.png)
+![Header](https://i.imgur.com/q6VQULU.png)
 
 First Flutter app tutorial
 
@@ -18,4 +18,4 @@ First Flutter app tutorial
 
 ## Contact Me
 + E-mail: ffpsjr@gmail.com
-+ Telefone: (82) 9 9121-3725
++ Phone: +5582991213725
