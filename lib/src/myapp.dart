@@ -55,7 +55,7 @@ class RandomWordsState extends State<RandomWords> {
 	Widget _buildSuggestions() {
 		//ListView created from _buildRow widget
 		return new ListView.builder(
-			padding: const EdgeInsets.all(16.0),
+			padding: new EdgeInsets.all(16.0),
 			//generate suggestions of word pairs
 			itemBuilder: (context, i) {
 				if (i.isOdd) return new Divider();
